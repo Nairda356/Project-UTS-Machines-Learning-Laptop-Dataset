@@ -108,3 +108,7 @@ Link: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-0081
 **2. Jenis Data, Ukuran Dataset, Linearitas**
 - Chimwanda et al. (2025). Linear Regression in the Spotlight: From Statistical Staple to... Journal of Technological Sciences, 2(1). (Artikel jurnal)
 Link: https://journals.cut.ac.zw/index.php/jts/article/download/363/89/1277
+- Du, Jiang, Lu, Hua & Swamy (2024). Exploring Kernel Machines and Support Vector Machines: Principles, Techniques, and Future Directions. Mathematics, 12(24), 3935. (Artikel jurnal)
+Link: https://doi.org/10.3390/math12243935
+- In Depth Comparison of Supervised Classification Models. IJACSA, Vol. 16, No. 8 (2025). (Artikel jurnal)
+Link: https://thesai.org/Downloads/Volume16No8/Paper_62-In_Depth_Comparison_of_Supervised_Classification_Models.pdf
