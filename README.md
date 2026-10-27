@@ -97,3 +97,13 @@ Project-UTS-MachineLearning/
 **Nama:** Adrian Majid Saktiawan  
 **Mata Kuliah:** Machine Learning  
 **Jenis Tugas:** Ujian Tengah Semester (UTS)
+
+## Referensi
+**1. MAE, MSE, dan R2**
+- Hodson (2022). Root-mean-square error (RMSE) or mean absolute error (MAE): when to use them or not. Geoscientific Model Development, 15, 5481-5487. (Artikel jurnal)
+Link: https://gmd.copernicus.org/articles/15/5481/2022/
+- Detecting heterogeneity parameters and hybrid models for precision farming. Journal of Big Data (2023). (Artikel jurnal)
+Link: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00810-8/tables/2
+**2. Jenis Data, Ukuran Dataset, Linearitas**
+- Chimwanda et al. (2025). Linear Regression in the Spotlight: From Statistical Staple to... Journal of Technological Sciences, 2(1). (Artikel jurnal)
+Link: https://journals.cut.ac.zw/index.php/jts/article/download/363/89/1277
