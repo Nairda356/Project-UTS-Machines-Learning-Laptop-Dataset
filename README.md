@@ -104,6 +104,7 @@ Project-UTS-MachineLearning/
 Link: https://gmd.copernicus.org/articles/15/5481/2022/
 - Detecting heterogeneity parameters and hybrid models for precision farming. Journal of Big Data (2023). (Artikel jurnal)
 Link: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00810-8/tables/2
+
 **2. Jenis Data, Ukuran Dataset, Linearitas**
 - Chimwanda et al. (2025). Linear Regression in the Spotlight: From Statistical Staple to... Journal of Technological Sciences, 2(1). (Artikel jurnal)
 Link: https://journals.cut.ac.zw/index.php/jts/article/download/363/89/1277
